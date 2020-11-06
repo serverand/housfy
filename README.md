@@ -7,7 +7,6 @@ POST http://127.0.0.1:8000/api/offices <br/>
    "address": "Dirección Oficina"
 }
 </pre>
-<br/>
 PUT http://127.0.0.1:8000/api/offices/23 <br/>
 <pre>
 {
@@ -15,5 +14,4 @@ PUT http://127.0.0.1:8000/api/offices/23 <br/>
    "developer": "Nueva dirección"
 }
 </pre>
-<br/>
 DELETE http://127.0.0.1:8000/api/offices/16
