@@ -11,7 +11,7 @@ PUT http://127.0.0.1:8000/api/offices/23 <br/>
 <pre>
 {
    "name": "Nuevo Nombre",
-   "developer": "Nueva dirección"
+   "address": "Nueva dirección"
 }
 </pre>
 DELETE http://127.0.0.1:8000/api/offices/16
