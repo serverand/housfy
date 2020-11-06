@@ -1,4 +1,4 @@
-<p style="font-size:11px;">
+<p>
 GET http://127.0.0.1:8000/api/offices/ <br/>
 GET http://127.0.0.1:8000/api/offices/15 <br/>
 POST http://127.0.0.1:8000/api/offices <br/>
